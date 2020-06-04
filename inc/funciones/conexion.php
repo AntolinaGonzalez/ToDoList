@@ -1,6 +1,6 @@
 <?php
 
-$conn = new mysqli('localhost', 'root', '42100124', 'uptask');
+$conn = new mysqli('localhost', 'root', 'iTtpqcgCX7ar', 'uptask');
 
 if($conn->connect_error){
     echo $conn->connect_error;
